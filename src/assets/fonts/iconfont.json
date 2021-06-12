@@ -1,0 +1,23 @@
+{
+  "id": "2607988",
+  "name": "登录",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15668823",
+      "name": "个人1",
+      "font_class": "geren1",
+      "unicode": "e778",
+      "unicode_decimal": 59256
+    },
+    {
+      "icon_id": "15668843",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e77b",
+      "unicode_decimal": 59259
+    }
+  ]
+}
