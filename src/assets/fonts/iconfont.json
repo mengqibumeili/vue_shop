@@ -6,6 +6,41 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "14625662",
+      "name": "报表管理",
+      "font_class": "baobiaoguanli",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "689264",
+      "name": "立方体 立体 多面体 方块2",
+      "font_class": "lifangtilitiduomiantifangkuai2",
+      "unicode": "e7fb",
+      "unicode_decimal": 59387
+    },
+    {
+      "icon_id": "774476",
+      "name": "单据",
+      "font_class": "danju",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "1197184",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "432096",
+      "name": "users",
+      "font_class": "users",
+      "unicode": "e830",
+      "unicode_decimal": 59440
+    },
+    {
       "icon_id": "15668823",
       "name": "个人1",
       "font_class": "geren1",

@@ -81,7 +81,7 @@ export default {
         // 保存返回的token值
         window.sessionStorage.setItem('token', res.data.token)
         // 实现页面跳转
-        this.$router.push('/home')
+        this.$router.push('/home') 
       })
     },
   },
