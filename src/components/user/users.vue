@@ -92,7 +92,7 @@
 
     <!-- 添加用户的对话框 -->
     <el-dialog
-      title="提示"
+      title="添加用户"
       :visible.sync="addDialogVisible"
       width="50%"
       @close="addDialogClosed"
@@ -366,7 +366,7 @@ export default {
 
     // 根据Id删除对应的用户信息
     async removeUserById(id){
-     const confirmResult = await this.$confirm('此操作将永久删除该用户, 是否继续?', '提示', {
+     const confirmResult = await this.$confirm('此操作将永久删 除该用户, 是否继续?', '提示', {
           confirmButtonText: '确定',
           cancelButtonText: '取消',
           type: 'warning'
