@@ -760,7 +760,7 @@ type=tree
                             "cat_pid": 3,
                             "cat_level": 2,
                             "cat_deleted": false
-                        }
+                        },
                     ]
                 }
             ]
